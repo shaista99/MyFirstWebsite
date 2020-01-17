@@ -1,0 +1,42 @@
+body{
+    background-color: whitesmoke;
+    color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    background-color: rgb(44, 35, 35);
+    padding: 10px;
+}
+
+section{
+    background-color: rgb(77, 65, 65);
+    padding: 20px 0 0 0;
+    display: flex;
+    flex-direction: row;
+}
+div{
+    background-color: rgb(25, 27, 23);
+    display: inline-block;
+    height: 40px;
+    width: 100px;
+    padding: 10px;
+    margin: auto;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    padding: 10px;
+}
+.navbar li{
+    display: inline-block;
+    margin: 0 20px 0 0;
+    border-radius: 3px;
+    text-decoration-style: none;
+}
+footer{
+    background-color: rgb(17, 17, 48);
+    padding: 20px;
+}
